@@ -1,6 +1,6 @@
 # compte-a-rebours-avec-redirection-de-lien
 
-Vous pouvez utiliser l'un de ces scripts pour simuler des interactions utilisateur sur des pages web en cliquant automatiquement sur des boutons ou des liens après un certain délai. Bien qu'il puisse être utilisé dans la console pour des tests rapides ou pour effectuer des actions sur une page web spécifique, il peut également être intégré dans le code source d'une page web pour automatiser des actions côté client.
+Vous pouvez utiliser l'un de ces scripts pour simuler des interactions utilisateur sur des pages web en cliquant automatiquement sur des boutons ou des liens après un certain délai. Bien qu'ils puissent être utilisés dans la console pour des tests rapides ou pour effectuer des actions sur une page web spécifique, ils peuvent également être intégrés dans le code source d'une page web pour automatiser des actions côté client.
 
 *Pour le script redirectionVersLien.js :* 
 
